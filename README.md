@@ -3,7 +3,9 @@ Student Record System is used to keep record of Student Information. Can add the
 
 # Features 
 Login Page: Logo of Student Management System
+
 Password Page: Password Validation
+
 Main Page:
 Add Student Information
 Student Info Full view
