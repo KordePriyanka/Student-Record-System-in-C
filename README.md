@@ -7,10 +7,10 @@ Login Page: Logo of Student Management System
 Password Page: Password Validation
 
 Main Page:
-Add Student Information
-Student Info Full view
-Search
-Modify
-Delete
-Sort
+Add Student Information,
+Student Info Full view,
+Search,
+Modify,
+Delete,
+Sort,
 Exit
